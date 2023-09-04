@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"000_Sebastian","characterIndex":0,"characterName":"000_Sebastian","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"000_Sebastian","traits":[],"initialLevel":1,"maxLevel":99,"name":"Себастьян","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"000_Karolina","characterIndex":0,"characterName":"000_Karolina","classId":2,"equips":[2,1,0,0,0],"faceIndex":0,"faceName":"000_Karolina","traits":[],"initialLevel":1,"maxLevel":99,"name":"Каролина","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"000_Samael","characterIndex":0,"characterName":"000_Samael","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"000_Samael","traits":[],"initialLevel":1,"maxLevel":99,"name":"Самаэль","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"000_En(Blind)","characterIndex":0,"characterName":"000_En(Blind)","classId":4,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"000_En","traits":[],"initialLevel":1,"maxLevel":99,"name":"Люций","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"000_En(NO_Blind)","characterIndex":0,"characterName":"000_En(NO_Blind)","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"000_En (NO_Blind)","traits":[],"initialLevel":1,"maxLevel":99,"name":"Люций (НЕ СЛЕПОЙ)","nickname":"","note":"","profile":""}
+]
